@@ -1,4 +1,4 @@
-<?php include_once('includes/header.php'); ?>
+<?php include('includes/header.php'); ?>
 
 <!-- Contenu de la page -->
 <div class="content">
@@ -6,4 +6,4 @@
     <p>Ceci est une page de démonstration.</p>
 </div>
 
-<?php include_once('includes/footer.php'); ?>
+<?php include('includes/footer.php'); ?>

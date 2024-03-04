@@ -11,12 +11,12 @@
         <?php include_once("lib/functions.php"); ?>
 
         <header>
-        <nav>
-            <ul>
-                <li><a href="index.php">Accueil</a></li>
-                <li><a href="pages/login.php">Connexion</a></li>
-                <li><a href="pages/profile.php">Profil</a></li>
-                <li><a href="pages/app.php">Application</a></li>
-            </ul>
-        </nav>
+            <nav>
+                <ul>
+                    <li><a href="/Perso/TicketScan/index.php">Accueil</a></li>
+                    <li><a href="/Perso/TicketScan/pages/login.php">Connexion</a></li>
+                    <li><a href="/Perso/TicketScan/pages/profile.php">Profil</a></li>
+                    <li><a href="/Perso/TicketScan/pages/app.php">Application</a></li>
+                </ul>
+            </nav>
         </header>
