@@ -1,0 +1,2 @@
+<?php
+// fonctions PHP réutilisables
